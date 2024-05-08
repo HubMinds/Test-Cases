@@ -1,4 +1,4 @@
 # Test-Cases
 Test cases for the HubMinds Project
-To run test please use the code below:
-pytest -s TestFile.py
+/nTo run test please use the code below:
+/npytest -s TestFile.py
